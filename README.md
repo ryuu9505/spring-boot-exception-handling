@@ -12,6 +12,11 @@
 - Try retrieving a Pokemon with a non-existent ID.</br>
   _존재하지 않는 ID로 포켓몬을 조회해 보세요._ </br>
   _存在しないIDでポケモンを取得してみてください。_
+
+### Details
+
+https://shady-dev.tistory.com/3 (Korean)
   
 #### Reference
+
 https://github.com/brunocleite/spring-boot-exception-handling
