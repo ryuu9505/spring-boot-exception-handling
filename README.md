@@ -17,6 +17,6 @@
 
 https://shady-dev.tistory.com/3 (Korean)
   
-#### Reference
+### Reference
 
 https://github.com/brunocleite/spring-boot-exception-handling
