@@ -5,13 +5,13 @@
 
 ### Sample Cases
 
-- <span style="background-color:#fff5b1">Try specifying the weight of the Pokemon as a string when storing its information.</span></br>
-  <span style="color: gray;">_포켓몬의 정보를 저장할 때 포켓몬의 무게를 문자열로 지정해 보세요._</br>
-  _ポケモンの情報を保存する際に、ポケモンの重さを文字列として指定してみてください。_</span>
+- Try specifying the weight of the Pokemon as a string when storing its information.</br>
+  _포켓몬의 정보를 저장할 때 포켓몬의 무게를 문자열로 지정해 보세요._</br>
+  _ポケモンの情報を保存する際に、ポケモンの重さを文字列として指定してみてください。_
 
-- <span style="background-color:#fff5b1">Try retrieving a Pokemon with a non-existent ID.</span></br>
-  <span style="color: gray;">_존재하지 않는 ID로 포켓몬을 조회해 보세요._ </br>
-  _存在しないIDでポケモンを取得してみてください。_</span>
+- Try retrieving a Pokemon with a non-existent ID.</br>
+  _존재하지 않는 ID로 포켓몬을 조회해 보세요._ </br>
+  _存在しないIDでポケモンを取得してみてください。_
   
 #### Reference
 https://github.com/brunocleite/spring-boot-exception-handling
