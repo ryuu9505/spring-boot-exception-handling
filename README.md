@@ -1,5 +1,4 @@
-## Spring Boot Exception Handling with Pokemon DB
-
+# Spring Boot Exception Handling with Pokemon
 
 <img src="https://img.shields.io/badge/Java-FF4000?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
 
@@ -12,11 +11,3 @@
 - Try retrieving a Pokemon with a non-existent ID.</br>
   _존재하지 않는 ID로 포켓몬을 조회해 보세요._ </br>
   _存在しないIDでポケモンを取得してみてください。_
-
-### Details
-
-https://shady-dev.tistory.com/3 (Korean)
-  
-### Reference
-
-https://github.com/brunocleite/spring-boot-exception-handling
