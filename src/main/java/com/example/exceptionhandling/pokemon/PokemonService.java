@@ -1,5 +1,6 @@
 package com.example.exceptionhandling.pokemon;
 
+import com.example.exceptionhandling.exception.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -20,6 +21,7 @@ public class PokemonService {
         Pokemon pokemon = pokemonRepository.findById(pokemonId).orElse(null);
         if (pokemon == null) {
             // todo throws exception
+            throw new EntityNotFoundException(Pokemon.class, "pokemonId", pokemonId.toString());
         }
         return pokemon;
     }
