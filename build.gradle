@@ -26,6 +26,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
     implementation 'jakarta.validation:jakarta.validation-api:3.0.2'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.16.1'
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.16.1'
     implementation 'org.apache.commons:commons-lang3:3.12.0'
     implementation 'org.hibernate.validator:hibernate-validator:8.0.1.Final'
     runtimeOnly 'com.h2database:h2'
